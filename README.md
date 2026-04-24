@@ -39,10 +39,10 @@ Pré-requisitos
 2. Gerenciador de pacotes (NPM ou Yarn)
 
 ## Passo a Passo
-1. Clone o repositório:git clone [https://github.com/Yaslly-dev/Mobile---Entrega-04.git](https://github.com/Yaslly-dev/Mobile---Entrega-04.git)
-2. Entre na pasta do backend:cd Mobile---Entrega-04/Backend
-3. Instale as dependências:npm install
-4. Execute as migrações do banco de dados (se necessário):drizzle-kit push:sqlite
+1. Clone o repositório: git clone [https://github.com/Yaslly-dev/Mobile---Entrega-04.git](https://github.com/Yaslly-dev/Mobile---Entrega-04.git)
+2. Entre na pasta do backend: cd Mobile---Entrega-04/Backend
+3. Instale as dependências: npm install
+4. Execute as migrações do banco de dados (se necessário): drizzle-kit push:sqlite
 5. Inicie o servidor de desenvolvimento: npx ts-node app.ts
 
 O servidor estará rodando em http://localhost:3000.
