@@ -1,7 +1,6 @@
 # 📱 Mobile - Entrega 04 | Portal de Notícias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Fastify-blue?style=for-the-badge&logo=fastify" alt="Backend">
   <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite" alt="SQLite">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
